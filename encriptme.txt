@@ -1,0 +1,1 @@
+this is a file that is meant to be decrypted decrypting this file will be done in three main methods to demonstrate the way each method works and the differences between them in terms of timing and resource power the methods used will be the following Affine cipher Playfair cipher
